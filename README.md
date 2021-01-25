@@ -1,6 +1,6 @@
 # Evaluation Phase 2, Part 2: Triples Extraction
 
-#### Gold Sentence Annotations for the NCG Shared Task Test Dataset
+#### Gold Entities Annotations for the NCG Shared Task Test Dataset
 
 The dataset is formatted as follows:
 
